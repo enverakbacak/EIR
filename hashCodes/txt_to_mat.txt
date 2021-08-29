@@ -1,0 +1,7 @@
+
+clear;
+clc;
+features_test_images_16 = importdata('features_test_images_16.txt') ;
+save('features_test_images_16.mat','features_test_images_16'); 
+
+
